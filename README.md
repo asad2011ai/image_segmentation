@@ -7,11 +7,6 @@ Download mrcnn folder from this repository: https://github.com/matterport/Mask_R
 
 Download coco weights : https://github.com/matterport/Mask_RCNN/releases/download/v2.0/mask_rcnn_coco.h5
 
-# using pretrianed weight of coco model
-
-![41012778-3477-4318-9453-a322a988fee0](https://user-images.githubusercontent.com/88252108/176417465-618aae2e-d975-4ebf-a07e-67be3808dfba.jpg)
-
-
 # trained model for sidewalk segmentation on Custom Dataset
 
 # orignial image
