@@ -18,7 +18,7 @@ Download coco weights : https://github.com/matterport/Mask_RCNN/releases/downloa
 ![sidewalk image segmetation](https://user-images.githubusercontent.com/88252108/176421095-03ba9f8b-b543-4fdb-8608-e7e43f6a8dbe.png)
 
 # comparison Graph for training and validation loss 
-from these graph we can see that our best training model is exit between 270 to 280 epochs
+from these graph we can see that our best training model is exist between 270 to 280 epochs
 
 # training loss graph
 ![training_loss](https://user-images.githubusercontent.com/88252108/176432770-554eb706-d09d-4cc7-8a04-715e545d2ddf.jpg)
